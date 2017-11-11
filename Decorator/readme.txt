@@ -1,0 +1,1 @@
+The Decorator Pattern attaches additional responsiblites to an object dynamically
